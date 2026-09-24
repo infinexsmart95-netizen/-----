@@ -12,7 +12,7 @@ if (!BOT_TOKEN) {
   process.exit(1);
 }
 
-const TELEGRAM_API = `https://api.telegram.org/bot${8753227547:AAHTYuV5M7CJlhTwFdYcpfPFYp-WwLUKswg}`;
+const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}`;
 
 
 
