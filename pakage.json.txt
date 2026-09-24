@@ -1,0 +1,13 @@
+{
+  "name": "royal-vip-bot",
+  "version": "1.0.0",
+  "description": "Telegram Join Request Auto DM Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
